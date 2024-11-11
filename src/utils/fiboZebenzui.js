@@ -1,6 +1,8 @@
 //Función que recibirá como input la posición hasta la que 
 //queremos saber de la sucesión de Fibonacci (input num) 
-//y nos devuelve la sucesión de Fibonacci en esa posición
+//y nos devuelve la sucesión de Fibonacci en esa posición.
+
+
 
 export function fiboZebenzui(num) {
  
