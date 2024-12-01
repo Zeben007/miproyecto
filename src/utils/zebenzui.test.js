@@ -16,6 +16,6 @@ describe('Función Zebenzui', () => {
     });
     
     it('Si la función recibe un 0 devuelve null.', () => {
-        expect(zebenzui(0)).toBe(false);
+        expect(zebenzui(0)).toBe(null);
     });
 });
